@@ -1,3 +1,3 @@
 # expensetracker-react
 
-in progress
+this is from Udemy React course 
